@@ -14,3 +14,5 @@ YouTube video of the result: https://youtu.be/jLCh5w9e7Qk
 5. Repeat this for 1000 generations.
 6. Save the matrix as a plot in each generation as an image, creating an image sequence.
 7. Convert the image sequence to video/gif.
+
+![Game of life GIF](https://github.com/bishwaruppaul/Game-of-Life-in-R/blob/main/ConwayGOL.gif)
