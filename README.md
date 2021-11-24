@@ -2,10 +2,8 @@
 Conway's Game of Life, created using R
 
 ### Links:
-Conway's Game of Life: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
-
-R Project: https://www.r-project.org/
-
+Conway's Game of Life: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life  
+R Project: https://www.r-project.org/  
 YouTube video of the result: https://youtu.be/jLCh5w9e7Qk
 
 ### Steps in the code:
