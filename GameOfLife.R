@@ -105,9 +105,9 @@ png_path <- file.path("plot", "gen%04d.png")
 png_files <- sprintf(png_path, 1:1000)
 
 # Converting to GIF
-gifski(png_files, "trial.gif", delay = 0.04, loop=T, progress=T)
+gifski(png_files, "ConwayGOL.gif", delay = 0.04, loop=T, progress=T)
 
 # Converting to video
-av_encode_video(png_files, 'trial.mp4', framerate = 25, verbose=T)
+av_encode_video(png_files, 'ConwayGOL.mp4', framerate = 25, verbose=T)
 
 
