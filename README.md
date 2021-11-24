@@ -4,7 +4,7 @@ Conway's Game of Life, created using R
 ### Links:
 Conway's Game of Life: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 R Project: https://www.r-project.org/
-YouTube video of the result: 
+YouTube video of the result: https://youtu.be/jLCh5w9e7Qk
 
 ### Steps in the code:
 1. Create an empty matrix of 100 rows and 100 columns
